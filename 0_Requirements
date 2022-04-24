@@ -1,7 +1,26 @@
-  COMPONENTS USED
-	LM358
-	Gas Sensor
-	Buzzer
-	Connecting Wires
-	led
-	Power supply
+.LM358:- The LM358 contains two independent high gain operational amplifiers, low power, dual channel op-amp, high gain with internal frequency compensation. Single power supply will be required to operate both op-amps in LM358. We can also use a split power supply. The device has low power supply voltage. LM358 IC can also be used as transducer standard operational amplifier, and it is suitable for our needs. It can handle voltage from 3V to 32V DC supply and current up to 20mA per channel. It consists of 8 pins which contains two operational amplifiers. In this IC we have two operational amplifier which can we use as a comparator. LM- The low power drain also makes the LM358 a good choice for battery operation. Generally we obtain signal from sensor are usually have small rating. We cannot do anything with this rating for example we obtain 0.3V from sensor. By using 0.3V we cannot ON/OFF led or relay. The LM-358 IC get signal from the sensor and compare to the reference voltage. Then this IC will decide whether the voltage is greater or less than reference voltage by giving output high or low.
+Features
+Single and Split Supply Operation
+Short Circuit Protected Outputs
+Internally Compensated
+True Differential Input Stage
+Low Input Bias Currents
+Single Supply Operation of LM-358 3.0 V to 32 V
+Common Mode Range Extends to Negative Supply
+Pin configuration of LM358:
+Pin Number	Pin Name	Description
+1	OUTPUT 1	This pin is the output of first operational amplifier
+2	INPUT  1 –	This pin is the inverting input of first op-amp
+3	INPUT 1 +	This pin is the non-inverting input of first op-amp
+4	GND or	 This ground or negative supply to op-amp
+5	INPUT 2 +	This pin is the non-inverting input of second op-amp
+6	INPUT 2 –	This pin is the inverting input of second op-amp
+7	OUTPUT 2	This pin is the output of the second op-amp
+8	Vf	This pin is the positive voltage supply to both op-amp
+
+2.Gas Sensor:- A gas sensor is a device that detects the presence of gases in an area, often as part of a safety system. A gas detector can sound an alarm to operators in the area where the leak is occurring, giving them the opportunity to leave. This type of device is important because there are many gases that can be harmful to organic life, such as humans or animals.
+Gas detectors can be used to detect combustible ,flamable and toxic gases, and oxygen depletion. This type of device is used widely in industry and can be found in locations, such as on oil rigs, to monitor manufacturing processes and emerging technologies such as photovolic They may be used in firefighting Gas leak detection is the process of identifying potentially hazardous by sensor. Additionally a visual identification can be done using a thermal camera These sensors usually employ an audible alarm to alert people when a dangerous gas has been detected. Exposure to toxic gases can also occur in operations such as painting, fumigation, fuel filling, construction, excavation of contaminated soils, landfill operations, entering confined spaces, etc. Common sensors include combustible gas sensors, photoionization detectors,  sensors (MOS sensors). More recently, infrared imaging sensors have come into use. All of these sensors are used for a wide range of applications and can be found in industrial plants, refineries, pharmaceutical manufacturing, fumigation facilities, paper pulp mills, aircraft and shipbuilding facilities, hazmat operations, waste-water treatment facilities, vehicles, indoor air quality testing and homes.
+3.Buzzer:- A buzzer or beeper is an audio signalling device, which may be mechanical, electromechanical, or piezoelectric (piezo for short). Typical uses of buzzers and beepers include alarm devices, timers, and confirmation of user input such as a mouse click or keystroke.
+4. Connecting wires:- Connecting wires allows an electrical current to travel from one point on a circuit to another because electricity needs a medium through which it can move. Most of the connecting wires are made up of copper or aluminium.
+5.LED:- Made popular by their efficiency, range of colour, and long lifespan, LED lights are ideal for numerous applications including night lighting, art lighting, and outdoor lighting. These lights are also commonly used in electronics and automotive industries, and for signage, along with many other uses.
+6. Power Supply:-In this project the power supply required is very much precession and also requires different level of power supply. Basically, the power supply used for the transmitter and receiver is arranged from a battery. Along with the battery the power supply requirement is +12 Volt and +5Volt.
