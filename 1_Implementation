@@ -1,0 +1,28 @@
+APPLICATIONS
+ smoke detector is an electronic fire-protection device that automatically senses the presence of smoke, as a key indication of fire, and sounds a warning to building occupants. Commercial and industrial smoke detectors issue a signal to a fire alarm control panel as part of a building's central fire alarm system.
+
+      ADVANTAGES
+Detection
+Smart smoke detectors use the latest technology to detect the presence of smoke using photoelectric smoke-sensing technology. Their ultra sensitivity prevents false alarms. In addition to sensing smoke, they also have heat sensors that detect rapid rises in heat that come from a fire, even when there is no smoke. This is a significant upgrade from many standard smoke detectors.
+ 
+24/7 Monitoring
+Even if you forget to set your smart home system, your smart smoke detector is always at work. Systems like have long battery life that can last 3-5 years. These systems provide peace of mind by always being on guard and accessible to you no matter where you are.
+ 
+Automatic Alert-Smart smoke detectors also keep your local monitoring stations on alert. If you are away from your home, your smoke detector will alert the proper authorities if it detects smoke or fire. This provides extra peace of mind if you are away for extended periods of time for vacation or work.
+
+DISADAVANTAGES
+Very sensitive, which can lead to false alarms as a product of cooking.
+Not as responsive to soldering fires - they are minutes slower than photoelectric sensors in detecting smoke particles from soldering fires.
+Use of radioactive material is a concern.
+Small range
+
+
+
+
+
+
+FUTURE DEVELOPMENT
+Overall, software and hardware parts of the systems have been developed and tested by introducing a small amount of LPG near gas sensor module. Sub system where wastage of gas and the uses of gas can be monitored using this system. The system is flexible as a greater number of sensors and relays can be added to it according to the whole LPG supply setup in those premises. The author is adding more software based intelligent functions with this system. This is an automatic gas detection, control and alert system. In future this system will have a feature where it can notify the emergency services if any accidents happen. A mobile app and web-based app for real time monitoring also will be added. In the user app for this system many smart features will be added. The overall features will make the system more safe for the users. The system will be optimized for use in many places like the car, the home, industries and many other places. After designing the final prototype with smart multifunctional features, the system will be implemented in real life scenarios as a pilot project. A survey will be done soon before using the system and another one will be done after implementing the system to discover the KPI. Summarizing all the results, finding and analyzing a research article will be done and author has plans to submit itto the MDPI sensors journal for review. In the future paper the features of this final product will be compared with the available gas detector systems presented in other articles.
+
+CONCLUSION
+The design of a sensor-based automatic gas leakage detector with an alert and control system has been proposed and discussed in this paper. This is a low-cost, low power, lightweight, portable, safe, user friendly, efficient, multi featured and simple system device for detecting gas. Gas leakage detection will not only provide us with significance in the health department but it will also lead to raise our economy, because when gas leaks it not only contaminates the atmosphere but also wastage of gases will hurt our economy. The proposed system will cost only 700rupees which is easily affordable even for poor people. In the open literatures it is noticed that much work has not been done for a smart gas detection system. In future, more advanced features will be integrated with this system which will provide users with more safety and relaxation. The proliferation of handheld devices has led to developments in the field of smart gas sensors, which has considerably widened their scope of application. The need for ensuring safety in workplaces is expected to be the key driving force for the market over the coming years
